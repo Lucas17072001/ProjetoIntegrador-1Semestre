@@ -1,0 +1,2 @@
+# ProjetoIntegrador-1Semestre
+O projeto é um jogo RPG feito inteiramente em java, o tema escolhido foi administração, fizemos uma empresa fictícia chamada Consulting and Thinking, o jogo tem como objetivo que a pessoa conheça um pouco as técnincas de administração clássica e científica, no qual baseamos as escolhas certas e erradas, cada escolha vale X pontos e o objetivo é aprender e se divertir, esse foi nosso primeiro projeto integrador da faculdade
